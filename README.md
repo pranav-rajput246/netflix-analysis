@@ -32,20 +32,7 @@ Using 'Python', 'Pandas', and 'Matplotlib', I examine the distribution of movies
 
 ---
 
-   📈 Visual Results
-
-> Movies vs TV Shows
-![Movies vs TV Shows](results/movies_vs_tvshows.png)
-
-> Ratings Distribution
-![Ratings Distribution](results/ratings_distribution.png)
-
-> Yearly Release Trend
-![Yearly Releases](results/yearly_releases.png)
-
----
-
-## 🚀 How to Run This Project
+   🚀 How to Run This Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/netflix-analysis.git
